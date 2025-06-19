@@ -39,7 +39,7 @@ The project is structured into two main folders:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/quickchat.git
+   git clone [https://github.com/Hritik-Tembhe/QuickChat.git]
    cd quickchat
    ```
 
