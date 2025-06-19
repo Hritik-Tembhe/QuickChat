@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #7269ef 0%, #5851e1 100%);
+}
+
+/* Add responsive design */
+@media (max-width: 768px) {
+  .app {
+    padding: 1rem;
+  }
+}
